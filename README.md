@@ -61,7 +61,7 @@ The system classifies tickets into the following categories:
 ---
 
 # Project Structure
-
+```bash
 FinalProject
 │
 ├── code
@@ -109,6 +109,7 @@ FinalProject
 ├── LICENSE
 │
 └── README.md
+```
 
 ---
 
