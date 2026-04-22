@@ -9,7 +9,7 @@ transformers==5.2.0
 fastapi==0.129.2
 uvicorn==0.41.0
 pydantic==2.12.5
-gunicorn
+gunicorn==25.3.0
 
 # Frontend UI
 streamlit==1.54.0
@@ -19,6 +19,7 @@ requests==2.32.5
 sentence-transformers==5.2.3    # For embeddings
 faiss-cpu==1.13.2               # Vector search 
 ollama==0.6.1                  # Local LLM
+grok==6.2
 tqdm==4.67.3                 # Progress bars
 notebook                 
 nltk==3.9.2
